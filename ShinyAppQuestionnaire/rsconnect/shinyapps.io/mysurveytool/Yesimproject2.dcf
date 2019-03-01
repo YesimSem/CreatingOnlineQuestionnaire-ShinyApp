@@ -1,0 +1,12 @@
+name: Yesimproject2
+title: Yesimproject2
+username:
+account: mysurveytool
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 244541
+bundleId: 1150411
+url: https://mysurveytool.shinyapps.io/Yesimproject2/
+when: 1514235431.02407
+asMultiple: FALSE
+asStatic: FALSE
